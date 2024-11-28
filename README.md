@@ -22,3 +22,18 @@ The following table gives an overview of the motivation elements, with their def
 | Constraint  | Represents a limitation on aspects of the architecture, its implementation process, or its realization.                                              |
 | Meaning     | Represents the knowledge or expertise present in, or the interpretation given to, a concept in a particular context.                                 |
 | Value       | Represents the relative worth, utility, or importance of a concept.                                                                                  |
+
+## Strategy Elements
+
+[Strategy elements](https://pubs.opengroup.org/architecture/archimate3-doc/ch-Strategy-Layer.html) are used to model the
+strategic direction and choices of an enterprise, as far as the impact on its architecture is concerned.
+
+The following table gives an overview of the strategy elements, with their definitions.
+
+| Element          | Definition                                                                                                                      |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Resource         | Represents an asset owned or controlled by an individual or organization.                                                       |
+| Capability       | Represents an ability that an active structure element, such as an organization, person, or system, possesses.                  |
+| Value Stream     | Represents a sequence of activities that create an overall result for a customer, stakeholder, or end user.                     |
+| Course of Action | Represents an approach or plan for configuring some capabilities and resources of the enterprise, undertaken to achieve a goal. |
+
