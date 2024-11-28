@@ -85,7 +85,7 @@ The following table gives an overview of the application elements, with their de
 | Application Interaction   | Represents a unit of collective application behavior performed by (a collaboration of) two or more application components.                           |
 | Application Event         | Represents an application state change.                                                                                                              |
 | Application Service       | Represents an explicitly defined exposed application behavior.                                                                                       |
-| Data Object               | Represents data structured for automated processing.
+| Data Object               | Represents data structured for automated processing.                                                                                                 |
 
 ## Technology Elements
 
