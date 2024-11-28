@@ -37,3 +37,26 @@ The following table gives an overview of the strategy elements, with their defin
 | Value Stream     | Represents a sequence of activities that create an overall result for a customer, stakeholder, or end user.                     |
 | Course of Action | Represents an approach or plan for configuring some capabilities and resources of the enterprise, undertaken to achieve a goal. |
 
+## Business Elements
+
+[Business elements](https://pubs.opengroup.org/architecture/archimate3-doc/ch-Business-Layer.html) are used to model the
+operational organization of an enterprise in a technology-independent manner.
+
+The following table gives an overview of the business elements, with their definitions.
+
+| Element                | Definition                                                                                                                                                                                                                                    |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Business Actor         | Represents a business entity that is capable of performing behavior.                                                                                                                                                                          |
+| Business Role          | Represents the responsibility for performing specific behavior, to which an actor can be assigned, or the part an actor plays in a particular action or event.                                                                                |
+| Business Collaboration | Represents an aggregate of two or more business internal active structure elements that work together to perform collective behavior.                                                                                                         |
+| Business Interface     | Represents a point of access where business services are made available to the environment.                                                                                                                                                   |
+| Business Process       | Represents a sequence of business behaviors that achieves a specific result such as a defined set of products or business services.                                                                                                           |
+| Business Function      | Represents a collection of business behavior based on a chosen set of criteria such as required business resources and/or competencies, and is managed or performed as a whole.                                                               |
+| Business Interaction   | Represents a unit of collective business behavior performed by (a collaboration of) two or more business actors, business roles, or business collaborations.                                                                                  |
+| Business Event         | Represents a business-related state change.                                                                                                                                                                                                   |
+| Business Service       | Represents explicitly defined behavior that a business role, business actor, or business collaboration exposes to its environment.                                                                                                            |
+| Business Object        | Represents a concept used within a particular business domain.                                                                                                                                                                                |
+| Contract               | Represents a formal or informal specification of an agreement between a provider and a consumer that specifies the rights and obligations associated with a product and establishes functional and non-functional parameters for interaction. |
+| Representation         | Represents a perceptible form of the information carried by a business object.                                                                                                                                                                |
+| Product                | Represents a coherent collection of services and/or passive structure elements, accompanied by a contract, which is offered as a whole to (internal or external) customers.                                                                   |
+
