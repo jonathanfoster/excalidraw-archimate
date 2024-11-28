@@ -60,3 +60,22 @@ The following table gives an overview of the business elements, with their defin
 | Representation         | Represents a perceptible form of the information carried by a business object.                                                                                                                                                                |
 | Product                | Represents a coherent collection of services and/or passive structure elements, accompanied by a contract, which is offered as a whole to (internal or external) customers.                                                                   |
 
+## Application Elements
+
+[Application elements](https://pubs.opengroup.org/architecture/archimate3-doc/ch-Application-Layer.html) are used to
+model the structure, behavior, and interaction of the applications of the enterprise.
+
+The following table gives an overview of the application elements, with their definitions.
+
+| Element                   | Definition                                                                                                                                           |
+|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Application Component     | Represents an encapsulation of application functionality aligned to implementation structure, which is modular and replaceable.                      |
+| Application Collaboration | Represents an aggregate of two or more application internal active structure elements that work together to perform collective application behavior. |
+| Application Interface     | Represents a point of access where application services are made available to a user, another application component, or a node.                      |
+| Application Process       | Represents a sequence of application behaviors that achieves a specific result.                                                                      |
+| Application Function      | Represents automated behavior that can be performed by an application component.                                                                     |
+| Application Interaction   | Represents a unit of collective application behavior performed by (a collaboration of) two or more application components.                           |
+| Application Event         | Represents an application state change.                                                                                                              |
+| Application Service       | Represents an explicitly defined exposed application behavior.                                                                                       |
+| Data Object               | Represents data structured for automated processing.                                                                                                 |
+
