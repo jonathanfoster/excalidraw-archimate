@@ -3,6 +3,20 @@
 The [ArchiMate Enterprise Architecture modeling language](https://pubs.opengroup.org/architecture/archimate3-doc/index.html)
 provides a uniform representation for diagrams that describe Enterprise Architectures.
 
+## ArchiMate Core Metamodel
+
+The ArchiMate language defines a core metamodel that is used to model the structure and behavior of an enterprise. The
+core metamodel answer the question how change is realized in an enterprise.
+
+![ArchiMate Core Metamodel](./docs/assets/archimate-core-metamodel.png)
+
+## ArchiMate Full Metamodel
+
+The ArchiMate language defines a full metamodel that extends the core metamodel with additional elements. The full
+metamodel answer the questions why, what, how, and when change is realized in an enterprise.
+
+![ArchiMate Full Metamodel](./docs/assets/archimate-full-metamodel.png)
+
 ## Motivation Elements
 
 [Motivation elements](https://pubs.opengroup.org/architecture/archimate3-doc/ch-Motivation-Elements.html) are used to
