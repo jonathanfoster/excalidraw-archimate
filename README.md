@@ -105,3 +105,18 @@ The following table gives an overview of the technology elements, with their def
 | Facility                 | Represents a physical structure or environment.                                                                                                           |
 | Distribution Network     | Represents a physical network used to transport materials or energy.                                                                                      |
 | Material                 | Represents tangible physical matter or energy.                                                                                                            |
+
+## Implemenation & Migration Elements
+
+[Implementation and migration elements](https://pubs.opengroup.org/architecture/archimate3-doc/ch-Implementation-and-Migration-Layer.html)
+are used to model implementation programs and projects to support program, portfolio, and project management.
+
+The following table gives an overview of the implementation and migration elements, with their definitions.
+
+| Element              | Definition                                                                                                                         |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Work Package         | Represents a series of actions identified and designed to achieve specific results within specified time and resource constraints. |
+| Deliverable          | Represents a precisely defined result of a work package.                                                                           |
+| Implementation Event | Represents a state change related to implementation or migration.                                                                  |
+| Plateau              | Represents a relatively stable state of the architecture that exists during a limited period of time.                              |
+| Gap                  | Represents a statement of difference between two plateaus.                                                                         |
