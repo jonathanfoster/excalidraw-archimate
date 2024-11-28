@@ -79,3 +79,29 @@ The following table gives an overview of the application elements, with their de
 | Application Service       | Represents an explicitly defined exposed application behavior.                                                                                       |
 | Data Object               | Represents data structured for automated processing.                                                                                                 |
 
+## Technology Elements
+
+[Technology elements](https://pubs.opengroup.org/architecture/archimate3-doc/ch-Technology-Layer.html) are used to model
+the structure and behavior of the technology infrastructure of the enterprise.
+
+The following table gives an overview of the technology elements, with their definitions.
+
+| Element                  | Definition                                                                                                                                                |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Node                     | Represents a computational or physical resource that hosts, manipulates, or interacts with other computational or physical resources.                     |
+| Device                   | Represents a physical IT resource upon which system software and artifacts may be stored or deployed for execution.                                       |
+| System Software          | Represents software that provides or contributes to an environment for storing, executing, and using software or data deployed within it.                 |
+| Technology Collaboration | Represents an aggregate of two or more technology internal active structure elements that work together to perform collective technology behavior.        |
+| Technology Interface     | Represents a point of access where technology services offered by a technology internal active structure can be accessed.                                 |
+| Path                     | Represents a link between two or more technology internal active structure elements, through which these elements can exchange data, energy, or material. |
+| Communication Network    | Represents a set of structures that connects devices or system software for transmission, routing, and reception of data.                                 |
+| Technology Function      | Represents a collection of technology behavior that can be performed by a technology internal active structure element.                                   |
+| Technology Process       | Represents a sequence of technology behaviors that achieves a specific result.                                                                            |
+| Technology Interaction   | Represents a unit of collective technology behavior performed by (a collaboration of) two or more technology internal active structure elements.          |
+| Technology Event         | Represents a technology state change.                                                                                                                     |
+| Technology Service       | Represents an explicitly defined exposed technology behavior.                                                                                             |
+| Artifact                 | Represents a piece of data that is used or produced in a software development process, or by deployment and operation of an IT system.                    |
+| Equipment                | Represents one or more physical machines, tools, or instruments that can create, use, store, move, or transform materials.                                |
+| Facility                 | Represents a physical structure or environment.                                                                                                           |
+| Distribution Network     | Represents a physical network used to transport materials or energy.                                                                                      |
+| Material                 | Represents tangible physical matter or energy.                                                                                                            |
